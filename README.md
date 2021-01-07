@@ -26,4 +26,4 @@ Programmers
 ## 시작 
 
 <ul> 모든 문제 Level 1
-	<li><a href="https://github.com/yeonga/BaekJoon_Algorithm_Study/blob/main/BaekJoon_Algorithm_Study/src/if_/Main_2753.java"> 두 정수 사이의 합 </a></li>
+	<li><a href="https://github.com/yeonga/Programmers_Algorithm_Study/blob/main/Programmers_Algorithm_Study/src/all_question_level1/Sum_two_essence.java"> 두 정수 사이의 합 </a></li>
